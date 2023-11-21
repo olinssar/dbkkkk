@@ -1,0 +1,4 @@
+pyrogram
+time
+pytgcalls
+requests
