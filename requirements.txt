@@ -1,4 +1,2 @@
 pyrogram
-time
 pytgcalls
-requests
